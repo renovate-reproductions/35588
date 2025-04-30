@@ -7,5 +7,5 @@
         'helpers:pinGitHubActionDigests',
         ':pinDevDependencies'
     ],
-    dependencyDashboard: false,
+    dependencyDashboard: true,
 }
