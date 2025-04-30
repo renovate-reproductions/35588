@@ -8,7 +8,7 @@
         ':pinDevDependencies'
     ],
     configMigration: true,
-    dependencyDashboard: false,
+    dependencyDashboard: true,
     prHourlyLimit: 0,
     // Between 0:00 and 6:59 UTC on Sundays.
     schedule: [
