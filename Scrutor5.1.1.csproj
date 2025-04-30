@@ -2,16 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
   </PropertyGroup>
 
   <ItemGroup>
-    <FrameworkReference Include="Microsoft.AspNetCore.App" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Scrutor" Version="5.1.1" />
-    <PackageReference Include="xunit.v3" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
